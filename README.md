@@ -148,7 +148,7 @@ print($worps->getAllWords())
 		//Array([0] => damn [1] => bad)
 ```
 
-## Screen Shoot
+## Screen Shot
 
 ![Uygulama Ekran Görüntüsü](https://dogukandemir.website/img/worps.png)
 
